@@ -1,0 +1,17 @@
+*【 ＨＯＷ ＴＯ ＵＳＥ】 :*
+
+
+█ *translate*
+▌	*tle* (translate auto ke english) ex : tle aku sayang kamu 
+▌	*tli* (translate auto ke indo) ex : tid i need a prove
+
+█ *sound menu*   
+
+▌	*spk* (text) ex : spk anooo
+
+█ *tools*
+▌ *cl* (blast message) ex : cl |test|62xxxxxxx@s.whatsapp.net // for personal | cl |test|1203xx04xxx@g.us // for group
+
+
+
+
